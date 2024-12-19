@@ -2,6 +2,11 @@
 
 This is a personal portfolio website designed to showcase your projects, skills, and achievements. It is built using HTML, CSS, and JavaScript and can be customized to reflect your personal brand.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princepatel4423d)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@prince_patel011)
+
+
+
 ## Features
 
 - **Responsive Design**: Adapts to different screen sizes for optimal viewing.
